@@ -1,4 +1,4 @@
-# food_savior_privacy_policies
+FOODSAVIOR PRIVACY POLICIES
 
 Welcome to Food Savior! Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
 
@@ -36,12 +36,9 @@ Ensure compliance with food safety and donation standards
 
 3. Sharing of Information
 We do not sell or rent your personal information. We may share limited data:
-
-With authorized organizations and volunteers for coordinating pickups
-
-With service providers for functionality like maps, cloud storage, or analytics
-
-If required by law or to protect rights and safety
+  - With authorized organizations and volunteers for coordinating pickups
+  - With service providers for functionality like maps, cloud storage, or analytics
+  - If required by law or to protect rights and safety
 
 4. Data Security
 We use industry-standard security practices to protect your data, including encryption and secure cloud storage. However, no method of transmission over the Internet is 100% secure.
